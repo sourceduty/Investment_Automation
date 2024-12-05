@@ -7,6 +7,13 @@
 
 Beyond strategy development, "Investment Automation" also guides users in integrating automated systems into their investment processes. From evaluating pre-built platforms to creating custom algorithms, it ensures users have the technical know-how and confidence to implement automated solutions effectively. This GPT stays up to date with the latest trends and regulatory considerations, making it a valuable resource for anyone looking to stay ahead in the rapidly evolving world of finance and technology. Whether you're a beginner exploring automated investing or an experienced investor fine-tuning a complex system, this GPT is designed to make the process intuitive, efficient, and impactful.
 
+```
+Create a new investment automation model.
+Print a cheat sheet for investment automation.
+Print an example investment automation model.
+Print the concepts of investment automation.
+```
+
 #
 ### Related Links
 
